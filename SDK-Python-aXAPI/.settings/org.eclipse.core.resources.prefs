@@ -1,0 +1,15 @@
+#Tue Jun 26 22:29:36 PDT 2012
+eclipse.preferences.version=1
+encoding/base.py=utf8
+encoding/class_list.py=utf8
+encoding/config_parser.py=utf8
+encoding/gslb.py=utf8
+encoding/ha.py=utf8
+encoding/healt_monitor.py=utf8
+encoding/method_call.py=utf8
+encoding/network.py=utf8
+encoding/slb.py=utf8
+encoding/slb_template.py=utf8
+encoding/snat.py=utf8
+encoding/ssl_mgmt.py=utf8
+encoding/system.py=utf8
